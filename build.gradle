@@ -10,8 +10,9 @@ repositories {
 }
 
 dependencies {
-    testImplementation platform('org.junit:junit-bom:5.10.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation group: 'org.junit.jupiter', name:'junit-jupiter-api', version: '5.8.1'
+    testRuntimeOnly group: 'org.junit.jupiter', name:'junit-jupiter-engine', version: '5.8.1'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.10.0'
 }
 
 test {
