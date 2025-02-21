@@ -1,6 +1,5 @@
 package com.sofkau;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -9,8 +8,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.Objects;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ProgressBarTest extends Setup {
 

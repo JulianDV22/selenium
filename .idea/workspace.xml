@@ -14,19 +14,18 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/ClassAtributeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/ClassAtributeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/DynamicIdTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/DynamicIdTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.sofkau.ClassAtributeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/ProgressBarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/sofkau/ProgressBarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.sofkau.ScrollbarsTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.sofkau.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.sofkau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.sofkau.ClassAtributeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.sofkau.ScrollbarsTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/ClassAtributeTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/ProgressBarTest.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sofkau/ClassAtributeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sofkau/ClassAtributeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sofkau/DynamicIdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sofkau/DynamicIdTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sofkau/DynamicTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sofkau/DynamicTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sofkau/ProgressBarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sofkau/ProgressBarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Gradle.AjaxDataTest.executor": "Run",
+    "Gradle.AlertTest.executor": "Run",
+    "Gradle.AlertTest.testPromptButton.executor": "Run",
     "Gradle.ClassAtributeTest.executor": "Run",
     "Gradle.ClickTest.executor": "Run",
     "Gradle.ClickTest.testClickButtonByJavaScript.executor": "Run",
@@ -90,10 +91,17 @@
     "Gradle.DynamicIdTest.testClickDynamicID.executor": "Run",
     "Gradle.DynamicTableTest.executor": "Run",
     "Gradle.DynamicTableTest.testFindCPUChromePercentage.executor": "Run",
+    "Gradle.FileUploadTest.executor": "Run",
+    "Gradle.HiddenLayersTest.executor": "Run",
     "Gradle.LoadDelaysTest.executor": "Run",
+    "Gradle.NonbreakingSpaceTest.executor": "Run",
     "Gradle.ProgressBarTest.executor": "Run",
+    "Gradle.SampleAppTest.executor": "Run",
+    "Gradle.SampleAppTest.testLogInInput.executor": "Run",
     "Gradle.ScrollbarsTest.executor": "Run",
     "Gradle.TextInputTest.executor": "Run",
+    "Gradle.VisibilityTest.executor": "Run",
+    "Gradle.VisibilityTest.testZeroWidth.executor": "Run",
     "Gradle.selenium [dependencies].executor": "Run",
     "Gradle.selenium [test].executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
@@ -101,7 +109,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,8 +118,8 @@
       <recent name="C:\Users\julid\IdeaProjects\selenium\src\test\resources\chromedriver" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ScrollbarsTest">
-    <configuration name="DynamicIdTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FileUploadTest">
+    <configuration name="AlertTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -123,7 +132,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.sofkau.DynamicIdTest&quot;" />
+            <option value="&quot;com.sofkau.AlertTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -134,7 +143,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="DynamicTableTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AlertTest.testPromptButton" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -147,7 +156,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.sofkau.DynamicTableTest&quot;" />
+            <option value="&quot;com.sofkau.AlertTest.testPromptButton&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -158,7 +167,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LoadDelaysTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FileUploadTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -171,7 +180,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.sofkau.LoadDelaysTest&quot;" />
+            <option value="&quot;com.sofkau.FileUploadTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -182,7 +191,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProgressBarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HiddenLayersTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -195,7 +204,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.sofkau.ProgressBarTest&quot;" />
+            <option value="&quot;com.sofkau.HiddenLayersTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -206,7 +215,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ScrollbarsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NonbreakingSpaceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -219,7 +228,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.sofkau.ScrollbarsTest&quot;" />
+            <option value="&quot;com.sofkau.NonbreakingSpaceTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -232,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ScrollbarsTest" />
-        <item itemvalue="Gradle.DynamicIdTest" />
-        <item itemvalue="Gradle.LoadDelaysTest" />
-        <item itemvalue="Gradle.ProgressBarTest" />
-        <item itemvalue="Gradle.DynamicTableTest" />
+        <item itemvalue="Gradle.FileUploadTest" />
+        <item itemvalue="Gradle.AlertTest.testPromptButton" />
+        <item itemvalue="Gradle.AlertTest" />
+        <item itemvalue="Gradle.HiddenLayersTest" />
+        <item itemvalue="Gradle.NonbreakingSpaceTest" />
       </list>
     </recent_temporary>
   </component>
